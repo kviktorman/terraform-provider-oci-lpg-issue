@@ -1,0 +1,5 @@
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/modules/modules.json
+.terraform/plugins/linux_amd64/lock.json
+.terraform/plugins/linux_amd64/terraform-provider-oci_v3.92.0_x4
